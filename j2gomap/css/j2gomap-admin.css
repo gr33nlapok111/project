@@ -1,0 +1,59 @@
+.j2gomap_admin_fields{width:100%;}
+.j2gomap_admin_fields #j2gomap_address,
+.j2gomap_admin_fields #j2gomap_marker,
+.j2gomap_admin_fields #marker_desc{width:85%;}
+
+.j2gomap_admin_fields .txt{display:inline-block;width:65px;}
+.j2gomap_admin_fields #marker_desc,
+.j2gomap_admin_fields em{margin:0px 0px 0px 70px;}
+.settings_page_wp_gomap-setting-admin .form-table th{width:0px;}
+.settings_page_wp_gomap-setting-admin .form-table input.text{width:80%;}
+.settings_page_wp_gomap-setting-admin .form-table select{width:200px;}
+.settings_page_wp_gomap-setting-admin .form-table input.int{width:200px;}
+.settings_page_wp_gomap-setting-admin .form-table em{color:#888;font-size:12px;}
+
+
+.j2gomap_admin_fields .green{
+    width: 100%;
+    padding: 1px 12px;
+    position: relative;
+    max-width: 930px;
+    margin: 0px 0px 20px;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: rgb(239, 243, 248);
+}
+
+.j2gomap_admin_fields .green:after{
+	content:" ";
+	position:relative;
+	border-bottom:1px solid #ccc;
+}
+
+.j2gomap_admin_fields .green .rmv{
+    text-decoration: none;
+    position: absolute;
+    top: -10px;
+    right: -8px;
+    color: #F07171;
+}
+.j2gomap_admin_fields .green .rmv span{font-size:24px;}
+#j2gomap-meta-box-id #newMarker{
+	text-align: center;
+    margin: 20px 0px 10px;
+}
+.pokedex{	z-index: 9999;    position: fixed;    top: 10%;    background: #fff;    border: 1px solid #ebebeb;    border-radius: 4px;    max-width: 500px;    left: 35%;    padding: 20px 20px;    box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.33);}.pokedex .filter{	text-align: center;    display: block;    float: none;    margin: 0px 0px 15px;}.pokedex .filter input{border-radius: 3px;}.pokedex ul{list-style:none;padding:0;margin:0;}.pokedex ul:after{clear:both;content:" ";}.pokedex li{float:left;max-width:40px;}.pokedex li a{position:relative;display:block;}.pokedex li a img{max-width:100%;}
+.j2gomap_admin_fields .green .selecto-pokemon{
+	margin: 15px 0px -20px 70px;
+}
+.j2gomap_admin_fields .green{
+	margin: 40px 0px 0px 30px;
+}
+.j2gomap_admin_fields .green .pokesrc{
+    position: relative;    top: -30px;    left: -35px;
+    border-radius: 45px;
+    border: 1px solid #e9eaea;
+    box-shadow: 1px 1px 1px 0px rgba(51, 51, 51, 0.48);		background:#fff;
+}
